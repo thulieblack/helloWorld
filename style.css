@@ -1,0 +1,21 @@
+body {
+  font:georgia,sans-serif;
+  line-height:1,8;
+  background-color:orange;
+  margin:0;
+  paddding:0;
+  }
+
+section{
+  width:70%;
+  background-color:pink;
+  margin-right:auto;
+  margin-left:auto;
+  border-style:solid;
+  border-width:1px;
+  padding:5px;
+}
+
+p {
+  margin:10px;
+}
